@@ -47,7 +47,7 @@ diff mysolution1.txt output1.txt
 ```
 Si el segundo comando no tenga ninguna salida, sabrás que los resultados que obtuviste son los esperados. Recuerda actualizar tu repositorio (*git push*) cuando hayas terminado tu implementación.
 
-Por último, realiza una investigación y reflexión en forma individual de la importancia y eficiencia del uso de los diferentes algoritmos de ordenamiento y búsqueda en una situación problema de esta naturaleza, generando un documento llamado **"ReflexAct1.3.pdf"**
+Por último, realiza una investigación y reflexión en forma individual de la importancia y eficiencia del uso de los diferentes algoritmos de ordenamiento y búsqueda en una situación problema de esta naturaleza, generando un documento llamado **"ReflexAct2.3.pdf"**
 
 ## <span style="color: rgb(26, 99, 169);">**¿Bajo qué criterios se evalúa mi evidencia?**</span>
 
@@ -67,7 +67,7 @@ Esta actividad forma parte tanto de tu calificación final del curso, así como 
 * Realices una entrega de  los archivos correspondientes de los algoritmos de ordenamiento y búsqueda, en la sección correspondiente dentro de esta plataforma, así como el documento de reflexión individual (**ReflexAct2.3.pdf**).
 * Generes una carpeta en forma personal llamada **TC1031(Portafolio_Final)** que servirá como preparación para la entrega del portafolio de competencias que se realizará al final del curso, esta carpeta debe contener 5 carpetas:
     * Act1.3
-    * Act2.3 - coloca aquí tus archivos que solucionaron la <span style="text-decoration: underline;">actividad 2.3</span> así como el documento de reflexión individual (**ReflexAct2.3.pdf**).
+    * **Act2.3** - coloca aquí tus archivos que solucionaron la <span style="text-decoration: underline;">actividad 2.3</span> así como el documento de reflexión individual (**ReflexAct2.3.pdf**).
     * Act3.4
     * Act4.3
     * Act5.2
